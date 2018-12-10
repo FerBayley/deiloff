@@ -1,0 +1,900 @@
+.container-fluid {
+  overflow: hidden;
+}
+
+
+footer {
+    color: #FFF;
+    background-color: #000;
+    height: auto;
+    padding-bottom: 5px;
+    padding-top: 15px;
+    width: auto;
+}
+
+.jumbotron {
+    background: url("../images/img-central.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 700px;
+    margin-bottom: 0;
+    margin-top: -70px;
+    border-radius: 0;
+}
+
+.heroEmpresa {
+    background: url("../images/bg-empresa.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: auto;
+    padding: 0 0 100px 0;
+    border-radius: 0;
+}
+
+.heroServicios {
+    background: url("../images/bg-servicios.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+
+.heroGaleria {
+    background: url("../images/galeria.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.heroMateriales {
+    background: url("../images/bg-materiales.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+.heroContacto {
+    background: url("../images/bg-contacto.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 500px;
+    margin-bottom: 0;
+    border-radius: 0;
+}
+
+
+.barraSubhero {
+    background-color: black;
+    margin-top: -10px;
+    color: #FFF;
+}
+
+.destacada {
+    background: url("../images/destacado.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: auto;
+    padding-top: 50px;
+}
+.destacada img {
+    height: auto;
+    width: 100%;
+}
+
+.destacadaEmpresa {
+    background: url("../images/destacado.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 550px;
+    padding-top: 40px;
+}
+
+.noticias {
+    background: url("../images/forma.png") no-repeat top center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 800px;
+}
+
+.franja {
+    background: url("../images/franja.png") no-repeat center center; 
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: cover;
+    height: 300px;
+}
+
+
+.red {
+    border: solid 1px red;
+}
+.verde {
+    border: solid 1px green;
+}
+
+.barraSubhero {
+    height: auto;
+    padding: 10px 0 5px 0;
+}
+
+.titulo-barraSubhero {
+    font-family: 'Biryani', sans-serif;
+    font-size: 19px;
+    font-weight: 900;
+    padding-top: 19px;
+}
+.redes-barraSubhero {
+    font-family: 'Biryani', sans-serif;
+    padding-top: 13px;
+    font-weight: 900;
+    font-size: 15px;
+}
+.redes-barraSubhero a {
+    color: #FFF;
+}
+.redes-barraSubhero a:hover {
+    opacity: 0.7;
+}
+
+.cols {
+    margin: 0;
+    padding: 0 5px 0 5px;
+}
+.cols img {
+    height: auto;
+    margin-bottom: 18px;
+    width: 100%;
+}
+
+.smegTitulo {
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+
+.smegProductos {
+    margin: 20px 0 100px 0;
+}
+
+.botonNegro {
+    background-color: #000;
+}
+
+.detalleProducto {
+    color: grey;
+    font-size: 13px;
+    margin-top: 15px;
+}
+
+
+.tituloSmeg {
+    font-family: 'Biryani', sans-serif;
+    font-size: 16px;
+    font-weight: 900;
+    margin-top: 17px;
+}
+
+
+.tituloNoticias {
+    margin: 30px 0 10px 0;
+}
+
+
+.textoNoticias {
+    text-align: left;
+}
+
+.precio {
+    font-size: 14px;
+    font-weight: 900;
+}
+
+
+header {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+header img {
+    height: 96px;
+    border-radius: 5px;
+    width: 129px;
+}
+header a:hover {
+    opacity: 0.5;
+}
+
+
+.copy {
+    font-family: 'Biryani', sans-serif;
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 200px;
+    color: #FFF;
+}
+
+
+.cuadroDestaque {
+    background-color: #FA9E7F;
+    max-height: auto;
+    height: auto;
+    margin-top: 100px; 
+}
+
+
+.tituloCuadroDestaque {
+    font-size: 18px;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+    padding-top: 30px;
+    line-height: 30px;
+}
+
+.textoCuadroDestaque {
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btnVermas {
+    font-size: 14px;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+}
+
+.tituloNoticias {
+    font-family: 'Biryani', sans-serif;
+    font-size: 25px;
+    font-weight: 900;
+}
+
+.columnaNoticias {
+    margin: 0;
+    padding: 10px;
+}
+.columnaNoticias img {
+    height: auto;
+    width: 100%;
+}
+
+.textoNoticias {
+    color: #FFF;
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    margin-top: 10px;
+}
+
+.redesDelFooter {
+    font-size: 20px;
+}
+.redesDelFooter a {
+    color: #FFF;
+    text-decoration: none;
+}
+.redesDelFooter a:hover {
+    opacity: 0.5;
+}
+
+
+.linksFooter {
+    font-size: 13px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.linksFooter a {
+    color: #FFF;
+}
+
+.marcas {
+    background-color: #333;
+    height: auto;
+    padding: 15px 0 15px 0;
+}
+
+
+.redesHeader {
+    font-size: 20px;
+}
+
+
+header ul li {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.textoLegal {
+    font-size: 13px;
+    color: #FFF;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 15px;
+}
+
+
+.marcaPersonal {
+    background-color: grey;
+}
+
+
+.weblosofy h2 {
+    color: #FFF;
+    font-size: 13px;
+    padding: 10px 20px 5px 0px;
+    font-family: 'Roboto', sans-serif;
+    line-height: 23px;
+}
+
+.weblosofy a {
+    color: #333;
+}
+.weblosofy a:hover {
+    color: #FFF;
+}
+
+.textoEmpresa {
+    color: #FFF;
+    font-size: 17px;
+    font-family: 'Roboto', sans-serif;
+    line-height:28px;
+}
+
+.tituloEmpresa {
+    margin-top: 100px;
+    color: #FFF;
+    font-size: 22px;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+}
+
+
+.imagenesFabrica img {
+    height: auto;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.tituloFabrica {
+    font-size: 17px;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+    margin-top: 50px;
+}
+
+
+.separata {
+    margin: 50px 0 50px 0;
+}
+
+
+.descripcionIconos {
+    font-size: 15px;
+    margin: 20px 0 0 0;
+}
+
+.asesoramiento {
+    margin-top: 43px;
+}
+
+.propuestas {
+    margin-top: 32px;
+}
+
+.entrega {
+    margin-top: 32px;
+}
+
+.trabajos {
+    margin-top: 32px;
+}
+
+.truck img {
+    margin-top: 25px;
+}
+
+.wall img {
+    margin-top: 25px;
+}
+
+.iconos {
+    margin-top: 70px;
+}
+
+
+.fotoServicio {
+    margin-top: 50px;
+}
+
+.colServicio {
+    margin: 0;
+    padding: 0;
+}
+
+.colServicio img {
+    height: auto;
+    width: 100%;
+}
+
+.container-fluid {
+    margin: 0;
+    padding: 0;
+}
+
+
+.galeriaDeObras {
+    margin: 20px 0 20px 0;
+}
+
+.colsSinEspacio {
+    color: grey;
+    margin: 0;
+    padding: 0;
+}
+
+.colsSinEspacio img {
+    height: auto;
+    width: 100%;
+}
+
+.contornoGaleria {
+    color: #333;
+    background-color: #F5F5F5;
+    padding: 20px 0 10px 20px; 
+    text-align: left;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+iframe {
+    height: 450px;
+    width: 100%;
+}
+
+.mapa {
+    margin: 60px 0 0 0;
+}
+
+.detalleProducto {
+    margin: 30px 0 40px 0;
+}
+
+.detalleProducto img {
+    height: auto;
+    width: 50%;
+}
+
+.textoDescripcion {
+    margin: 100px 0 1px 0;
+}
+
+.titulosProductosDestacados {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    font-family: 'Biryani', sans-serif;
+    font-weight: 900;
+}
+
+
+.foto1 a:hover {
+    opacity: 0.7;
+}
+.foto2 a:hover {
+    opacity: 0.7;
+}
+.foto3 a:hover {
+    opacity: 0.7;
+}
+.foto4 a:hover {
+    opacity: 0.7;
+}
+.foto5 a:hover {
+    opacity: 0.7;
+}
+
+.borde a {
+    border: none;
+}
+.borde a:hover {
+    border: solid 5px grey;
+}
+
+.envianos {
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    font-size: 15px;
+}
+
+.datos {
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+    color: grey;
+    font-size: 15px;
+}
+
+.form-group {
+    margin-top: 20px;
+}
+
+.datosContacto {
+    color: #959090;
+    margin-top: 20px;
+    line-height: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
+
+.tituloContacto {
+    color: #FA9E7F;
+    font-size: 17px;
+    margin-bottom: 15px; 
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+
+.pestanas {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.pestanas a {
+    color: #4A4A4A;
+    padding-top: 30px;
+    padding-left: 0;
+    padding-right: 40px;
+}
+.pestanas a:hover {
+    text-decoration: underline;
+}
+
+.destacadoMateriales {
+    margin: -20px 0 50px 0;
+    padding: 15px 0 15px 10px;
+    background-color: #F5F5F5;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+.barron {
+    background-color: black;
+    height: auto;
+    padding: 10px 0 10px 0;
+    width: auto;
+}
+
+
+#footer {
+    background-color: #000;
+}
+
+.orange {
+    border: solid 1px orange;
+}
+.menu {
+    color: #FFF;
+}
+.navbar-toggler {
+    border: 0;
+}
+.logo img {
+    height: auto;
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+}
+
+.imagenDeMarca img {
+    margin: 0 0 15px 0;
+}
+
+/*
+_____             .___.__        
+/     \   ____   __| _/|__|____   
+/  \ /  \_/ __ \ / __ | |  \__  \  
+/    Y    \  ___// /_/ | |  |/ __ \_
+\____|__  /\___  >____ | |__(____  /
+      \/     \/     \/         \/ 
+________                      .__               
+\_____  \  __ __   ___________|__| ____   ______
+/  / \  \|  |  \_/ __ \_  __ \  |/ __ \ /  ___/
+/   \_/.  \  |  /\  ___/|  | \/  \  ___/ \___ \ 
+\_____\ \_/____/  \___  >__|  |__|\___  >____  >
+     \__>           \/              \/     \/ 
+
+*/
+
+/* Telefonos pequeños */
+@media (min-width: 320px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    .copy {
+        font-size: 40px;
+        line-height: 55px;
+        margin: 200px 0 0 -10px;
+        padding: 0;
+    }
+    .noticias {
+        background: url("../images/forma.png") no-repeat top center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: auto;
+    }
+    .heroMateriales {
+        background: url("../images/bg-materiales.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 200px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+    .heroServicios {
+        background: url("../images/bg-servicios.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 200px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+    .heroContacto {
+        background: url("../images/bg-contacto.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 200px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+    .titulo-barraSubhero {
+        padding-left: 10px;
+    }
+    .redes-barraSubhero {
+        text-align: left;
+        padding: 10px 70px 0 12px;
+        line-height: 30px;
+    }
+    .titulosProductosDestacados {
+        line-height: 30px;
+    }
+    .tituloSmeg {
+        text-align: center;
+    }
+    .botonNegro {
+        margin-bottom: 50px;
+    }
+    .linksFooter {
+        padding-left: 30px;
+        padding-bottom: 10px;
+        line-height: 25px;
+    }
+    .textoLegal {
+        padding-left: 5%;
+        padding-right: 5%;
+        line-height: 20px;
+        padding-bottom: 10px;
+    }
+    .imagenesMarcas img {
+        margin-top: 15px;
+    }
+    .tituloNoticias {
+        margin: -40px 0 0 0;
+    }
+    .tituloEmpresa {
+        font-size: 20px;
+    }
+    .textoEmpresa {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .pestanas {
+        margin-left: 10px;
+    }
+    .logo img {
+        height: auto;
+        width: 70%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .detalleProducto {
+        font-size: 20px;
+        margin-bottom: -10px;
+    }
+    .weblosofy {
+        font-size: 13px;
+    }
+    .imagenSmeg {
+        margin: 0 auto;
+    }
+    .imagenSmeg img {
+        height: auto;
+        width: 100%;
+    }
+    .imagenDeMarca {
+        padding-right: 20px;
+    }
+    .imagenServicios {
+        margin: 0 0 50px 0;
+    }
+    .descripcionIconos {
+        font-size: 16px;
+        font-family: 'Open Sans', sans-serif;
+    }
+}
+/* Telefonos pequeños */
+
+
+/*  Galaxy S5 */
+@media (min-width: 360px) {
+    .redesDelFooter {
+       text-align: left;
+       margin: 0 0 0 -30px;
+    }
+}
+/*  Galaxy S5 */
+
+
+@media (min-width: 375px) {
+    .redesDelFooter {
+        margin: 0;
+        padding: 0;
+    }
+    .copy {
+        font-size: 50px;
+        line-height: 55px;
+        margin: 180px 0 0 -10px;
+        padding: 0;
+    }
+    .redesDelFooter {
+        text-align: left;
+        margin: 0 0 0 -53px;
+    }
+    .redes-barraSubhero {
+        margin: 0 50px 0 10px;
+        line-height: 30px;
+    }
+}
+
+
+/* Pixel 2 */
+@media (min-width: 411px) {
+    .redesDelFooter {
+        text-align: left;
+        margin: 0 0 0 -70px;
+    }
+}
+/* Pixel 2 */
+
+
+@media (min-width: 425px) {
+    .redesDelFooter {
+        text-align: left;
+        margin: 0 0 0 200px;
+    }
+    .redes-barraSubhero {
+        margin: 0 0 0 10px;
+        padding: 0;
+    }
+}
+
+/* Iphone 6/7/8 Plus */
+@media (min-width: 414px) {
+    .redes-barraSubhero {
+        margin: 0;
+        padding: 0 5px 0 10px;
+    }
+}
+/* Iphone 6/7/8 Plus */
+
+@media (min-width: 768px) {
+    .cuadroDestaque {
+        margin-top: 0;
+    }
+    .tituloCuadroDestaque {
+        font-size: 13px;
+        line-height: 19px;
+        margin-top: -10px;
+    }
+    .textoCuadroDestaque {
+        font-size: 14px;
+    }
+    .destacada {
+        background: url("../images/destacado.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: auto;
+        padding: 0 0 5% 0;
+        padding-top: 50px;
+    }
+    .titulo-barraSubhero {
+        font-size: 15px;
+    }
+    .redes-barraSubhero {
+        font-size: 16px;
+    }
+    .imagenSmeg img {
+        height: auto;
+        width: 50%;
+    }
+    .tituloSmeg {
+        text-align: left;
+    }
+}
+
+@media (min-width: 1024px) {
+    .logo img {
+        height: auto;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 15px;
+    }
+    .heroMateriales {
+        background: url("../images/bg-materiales.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 500px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+    .heroServicios {
+        background: url("../images/bg-servicios.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 500px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+    .heroContacto {
+        background: url("../images/bg-contacto.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 500px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+}
