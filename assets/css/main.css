@@ -600,6 +600,7 @@ iframe {
 }
 .menu {
     color: #FFF;
+    margin-top: 25px;
 }
 .navbar-toggler {
     border: 0;
@@ -896,5 +897,25 @@ ________                      .__
         height: 500px;
         margin-bottom: 0;
         border-radius: 0;
+    }
+    .copy {
+        font-size: 65px;
+        line-height: 90px;
+        margin-top: 160px;
+    }
+    .logo img {
+        margin-bottom: -20px;
+        margin-top: 10px;
+    }
+    .redes-barraSubhero {
+        margin-top: 10px;
+        text-align: right;
+        font-weight: 100;
+    }
+    .titulo-barraSubhero {
+        font-weight: 100;
+    }
+    .barraSubhero {
+        margin: 0;
     }
 }
