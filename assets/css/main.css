@@ -680,6 +680,20 @@ iframe {
     width: 360px;
 }
 
+.mouse {
+    cursor: pointer;
+}
+.mouse :hover {
+    background-color: #FA9E7F;
+    color: #FFF;
+}
+.imagenDetalle img {
+    height: auto;
+    width: 100%;
+}
+
+
+
 /*
 _____             .___.__        
 /     \   ____   __| _/|__|____   
