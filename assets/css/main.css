@@ -692,6 +692,9 @@ iframe {
     width: 100%;
 }
 
+.banos {
+    margin-top: 50px;
+}
 
 
 /*
@@ -740,6 +743,31 @@ ________                      .__
         margin-bottom: 0;
         border-radius: 0;
     }
+
+    .heroBanos {
+        background: url("../images/herobanos.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 550px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+
+    .heroCocina {
+        background: url("../images/herococina.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 550px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+
     .heroServicios {
         background: url("../images/bg-servicios.png") no-repeat center center; 
         -webkit-background-size: 100% 100%;
