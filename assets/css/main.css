@@ -680,6 +680,13 @@ iframe {
     width: 360px;
 }
 
+.materialesSmeg img {
+    height: 225px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    width: auto;
+}
+
 .mouse {
     cursor: pointer;
 }
@@ -696,6 +703,21 @@ iframe {
     margin-top: 50px;
 }
 
+.descripcion {
+    font-size: 13px;
+    font-weight: 700;
+}
+
+.precio {
+    line-height: 40px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+
+.espacio {
+    margin: 150px 0 0 0;
+}
 
 /*
 _____             .___.__        
@@ -740,6 +762,18 @@ ________                      .__
         -o-background-size: 100% 100%;
         background-size: cover;
         height: 200px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+
+    .heroSmeg {
+        background: url("../images/smeg/vidriera.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 550px;
         margin-bottom: 0;
         border-radius: 0;
     }
