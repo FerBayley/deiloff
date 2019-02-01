@@ -680,6 +680,11 @@ iframe {
     width: 360px;
 }
 
+.materialesPiletas img {
+    height: auto;
+    width: 360px;
+}
+
 .materialesSmeg img {
     height: 225px;
     padding-top: 10px;
@@ -769,6 +774,17 @@ ________                      .__
 
     .heroSmeg {
         background: url("../images/smeg/vidriera.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 550px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+    .heroPiletas {
+        background: url("../images/piletas/pileta-hero.png") no-repeat center center; 
         -webkit-background-size: 100% 100%;
         -moz-background-size: 100% 100%;
         -o-background-size: 100% 100%;
