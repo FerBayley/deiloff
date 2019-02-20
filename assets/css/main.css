@@ -530,13 +530,6 @@ iframe {
     opacity: 0.7;
 }
 
-.borde a {
-    border: none;
-}
-.borde a:hover {
-    border: solid 5px grey;
-}
-
 .envianos {
     margin-top: 40px;
     font-family: 'Roboto', sans-serif;
@@ -620,13 +613,6 @@ iframe {
 .navbar-toggler {
     border: 0;
 }
-.logo img {
-    height: auto;
-    width: 100%;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    border-radius: 10px;
-}
 
 .imagenDeMarca img {
     margin: 0 0 15px 0;
@@ -672,6 +658,11 @@ iframe {
 
 .imgSmeg img {
     height: auto;
+    width: 100%;
+}
+.imgJohnson img {
+    height: 600px;
+    margin-bottom: 25px;
     width: 100%;
 }
 
@@ -723,6 +714,28 @@ iframe {
 .espacio {
     margin: 150px 0 0 0;
 }
+
+.botonDeiloff {
+    background-color: #FA9E7F;
+}
+.botonDeiloff:hover {
+    background-color: #FA9E7F;
+    border: 0;
+}
+
+.btnDeiloff {
+    color: #FFF;
+    background-color: #FA9E7F;
+    border-radius: 2px;
+    padding: 7px 20px 7px 20px;
+}
+.btnDeiloff:hover {
+    color: #FFF;
+    text-decoration: none;
+    background-color: #e17055;
+}
+
+
 
 /*
 _____             .___.__        
