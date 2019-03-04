@@ -471,6 +471,12 @@ header ul li {
     height: auto;
     width: 100%;
 }
+.colsSinEspacio a {
+    text-decoration: none;
+}
+.colsSinEspacio:hover {
+    opacity: 0.5;
+}
 
 .contornoGaleria {
     color: #333;
