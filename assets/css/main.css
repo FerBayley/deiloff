@@ -672,6 +672,12 @@ iframe {
     width: 100%;
 }
 
+.imgJohnson2 img {
+    height: auto;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
 .materiales img {
     height: 225px;
     width: 360px;
@@ -740,7 +746,17 @@ iframe {
     text-decoration: none;
     background-color: #e17055;
 }
-
+.piletasDobles {
+    margin-top: 40px;
+    height: auto;
+    width: auto;
+}
+.piletasDobles h2 {
+    font-size: 16px;
+}
+.piletasDobles a {
+    color: grey;
+}
 
 
 /*
@@ -804,6 +820,17 @@ ________                      .__
 
     .heroPiletas {
         background: url("../images/piletas/pileta-hero.png") no-repeat center center; 
+        -webkit-background-size: 100% 100%;
+        -moz-background-size: 100% 100%;
+        -o-background-size: 100% 100%;
+        background-size: cover;
+        height: 550px;
+        margin-bottom: 0;
+        border-radius: 0;
+    }
+
+    .heroPiletasDobles {
+        background: url("../images/piletas/piletadoble-cover.png") no-repeat center center; 
         -webkit-background-size: 100% 100%;
         -moz-background-size: 100% 100%;
         -o-background-size: 100% 100%;
